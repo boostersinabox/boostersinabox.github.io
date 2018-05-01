@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Computer Hack to Full Stack
 header-img: img/home-bg.png
 email: stacy@boostersinabox.com
 copyright_name: boostersinabox
 description: > # this means to ignore newlines until "baseurl:"
-  
+  .... and the lessons I learned along the way
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  boostersinabox
