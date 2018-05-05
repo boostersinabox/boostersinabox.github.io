@@ -17,7 +17,7 @@ I made the decision to retire from financial services, because who wants stomach
 
 While driving myself crazy trying to decide, I came across a quote by the co-founder of one of my favorite sites, Poshmark.  Tracy Sun said:  “Love what you do and do what you love. Doing something new and different requires a level of drive and passion that is really hard to fake. When your heart is behind what you are doing, so much is possible.”
 
-My passion and drive was there so I jumped in with both feet.  I feel blessed to have found Flatiron and the Web Developer / Full Stack Bootcamp.  It is my 5th day in the program, on Cinco de Mayo and my goal is to graduate five months from today, cinco meses a partir de hoy.   So, here's to me going from hack to full stack with a little Spanish on the side.
+My passion and drive was there so I jumped in with both feet.  I feel blessed to have found Flatiron and the Web Developer / Full Stack Bootcamp.  I found Flatiron while searching for "women in coding".  I came across a blog post on the Lyft site (https://blog.lyft.com/posts/lyft-x-flatiron-school) where Lyft was sponsoring scholarships for women to go to school for coding.  I was on fire by now.  I prepped myself, applied, was accepted, was offered a scholarship and now it is my 5th day in the program, on Cinco de Mayo!!!   My goal is to graduate five months from today, cinco meses a partir de hoy.   So, here's to me going from hack to full stack with a little Spanish on the side.
 
 
 ![](http://www.boostersinabox.com/wp-content/uploads/2018/05/CincoDeMayoComputer-e1525542208640.jpg)
