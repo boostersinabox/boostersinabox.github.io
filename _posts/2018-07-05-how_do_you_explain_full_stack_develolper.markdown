@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How Do You Explain Full Stack Develolper?"
-date:       2018-07-05 23:00:14 +0000
+date:       2018-07-05 19:00:14 -0400
 permalink:  how_do_you_explain_full_stack_develolper
 ---
 
@@ -21,7 +21,6 @@ Developer must understand the following:
 
 *   Creation of the interface and user experience.  These are just a few tools:
      *   HTML (Hyper Text Markup Language) is the backbone of the Web. Every website is built with HTML. HTML takes care of the structure and content.
-
      *   CSS (Cascading Style Sheets) is what controls the way the HTML looks on the website page.  It sets the page layout, colors, fonts, background images, etc.
      *   JavaScript adds the interactivity the user experiences.  Examples are more complex animations, scripts that run and change the screen based on user input, etc.  Several more advanced scripts used to be handled on the backend.  
 
@@ -46,7 +45,6 @@ Developer must understand the following:
     *  ORM (Object Relational Mapping)
 *  Scripting languages & frameworks to achieve a highly interactive website.
     *  PHP – (PHP: Hypertext Preprocessor) is a server-side interpreted scripting language. It was designed for creating dynamic web pages and web pages that effectively work with databases.
-
     *  JavaScript Frameworks -  A framework is a collection of JavaScript tools that define the entire application design.  It also guides through predefined templates.
         *  AngularJs
         *  jQuery
