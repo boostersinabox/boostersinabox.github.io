@@ -28,21 +28,20 @@ Developer must understand the following:
 This is the part the user does not see.  It is the logical back-end and core computational logic of a website. The components and features that are created in the backend are indirectly accessed by a user through the front-end.
 
 Developer must understand the following: 
-
-*  A Programming language(s).  Which is defined as a language that is used to specifies a set of instructions for the computer to execute.  Most developers may be proficient in one or two.
+*  **Programming Language(s)** -  Which is defined as a language that is used to specifies a set of instructions for the computer to execute.  Most developers may be proficient in one or two.
     *  Ruby
     *  Python
     *  Java
     *  C++
     *  Rust
     *  Elixir
-*  Database development to store data collected and used.
+*  **Database Development** - to store data collected and used.
     *  SQL
     *  DBAS
     *  FoxPro
     *  MongoDB
     *  ORM (Object Relational Mapping)
-*  Scripting languages & frameworks to achieve a highly interactive website.
+*  **Scripting Languages &  Frameworks** - to achieve a highly interactive website.
     *  PHP – (PHP: Hypertext Preprocessor) is a server-side interpreted scripting language. It was designed for creating dynamic web pages and web pages that effectively work with databases.
     *  JavaScript Frameworks -  A framework is a collection of JavaScript tools that define the entire application design.  It also guides through predefined templates.
         *  AngularJs
@@ -52,7 +51,7 @@ Developer must understand the following:
         *  React
         *  AJAX
         *  JSON
-*  Where the website reside?  
+*  **Servers & Hosting** - where the website reside?  
     *  Servers Types: 
         *  Apache (most popular)
         *  IIS – Microsoft Internet Information Server
@@ -71,15 +70,15 @@ Developer must understand the following:
         *  VPS (Virtual Private Server)
         *  Standard Web Hosting
         *  Cloud Based Web Hosting
-*  Interaction with other sites and/or data
+*  **Data Interaction** - with other sites and/or data
     *  API (Application Program Interface), using REST verbs
     *  Postman – share, test, document and monitor APIs
-*  Quality assurance
+*  **Quality Assurance** - control of development, updates and debugging
     *  Git – A distributed version control system
     *  GitHub – A remote repository hosting service
     *  REPL - interactive computer programming environment that takes user inputs, evaluates them, and returns the result to the user.  You can test your code.
     *  Selenium – test browser compatibility
-*  	Security
+*  **	Security** - protecting users and data
      *  	NIDS (Network Intrusion Detection System)
      *  	VPN (Virtual Private Network)
      *  	Firewalls
