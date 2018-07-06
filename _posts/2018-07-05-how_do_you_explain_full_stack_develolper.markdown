@@ -16,12 +16,12 @@ Let’s start with the terms front-end or back-end developers because the combin
 This is the part the user sees and interacts with when going to a website or app.
 
 Developer must understand the following:
-
 *   Understand the customer and business’ needs
 *   Creation of the interface and user experience.  These are just a few tools:
-     *   HTML (Hyper Text Markup Language) is the backbone of the Web. Every website is built with HTML. HTML takes care of the structure and content.
-     *   CSS (Cascading Style Sheets) is what controls the way the HTML looks on the website page.  It sets the page layout, colors, fonts, background images, etc.
-     *   JavaScript adds the interactivity the user experiences.  Examples are more complex animations, scripts that run and change the screen based on user input, etc.  Several more advanced scripts used to be handled on the backend.  
+     *   **HTML** (Hyper Text Markup Language) is the backbone of the Web. Every website is built with HTML. HTML takes care of the structure and content.
+     *   **CSS** (Cascading Style Sheets) is what controls the way the HTML looks on the website page.  It sets the page layout, colors, fonts, background images, etc.
+     *   **JavaScript** adds the interactivity the user experiences.  Examples are more complex animations, scripts that run and change the screen based on user input, etc.  Several more advanced scripts used to be handled on the backend.  
+
 
 
 ## Back-End
