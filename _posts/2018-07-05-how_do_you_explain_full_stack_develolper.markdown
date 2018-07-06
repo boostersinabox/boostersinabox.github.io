@@ -6,7 +6,7 @@ permalink:  how_do_you_explain_full_stack_develolper
 ---
 
 
-Over the Memorial Day weekend, I was asked by several family members what I was studying.  When I stated, "Full Stack Development", their faces became contorted followed by a "hu?”  I have been thinking about these interactions and decided dissect and explain the knowledge that must be acquired in or to become a full stack developer.
+Over a holiday weekend, I was asked by several family members what I was studying.  When I stated, "Full Stack Development", their faces became contorted followed by a "hu?”  I have been thinking about these interactions and decided dissect and explain the knowledge that must be acquired in or to become a full stack developer.
 
 With just over 90% of Americans going online for a variety of reasons, every one of them interacts with a website and/or an app (application).  Facebook, online banking, Candy Crush app on your phone and even just a simple google search all have been developed through a series of knowledge and tools.  A full stack developer may or may not be the individual that came up with the idea of a website or app, but they have the experience to see the creation of the item from start to finish.
 
@@ -78,7 +78,7 @@ Developer must understand the following:
     *  GitHub – A remote repository hosting service
     *  REPL - interactive computer programming environment that takes user inputs, evaluates them, and returns the result to the user.  You can test your code.
     *  Selenium – test browser compatibility
-*  **	Security** - protecting users and data
+*  **Security** - protecting users and data
      *  	NIDS (Network Intrusion Detection System)
      *  	VPN (Virtual Private Network)
      *  	Firewalls
